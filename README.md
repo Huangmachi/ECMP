@@ -19,6 +19,11 @@ If the network has started up, test the correctness of it:
     mininet> pingall
     mininet> iperf
 
+
+### Authors
+
+Bring to you by Huang MaChi (Chongqing University of Posts and Telecommunications, Chongqing, China.) and Li Cheng (Beijing University of Posts and Telecommunications. www.muzixing.com).
+
 If you have any question, you can email me. Don't forget to STAR this repository!
 
 Enjoy it!
