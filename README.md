@@ -3,9 +3,9 @@
 ECMP is a traffic routing application for Fattree network, switching packets with static hash algorithm. It is suitable for fattree4 and fattree8, using OpenFlow 1.3.0. It can work without a SDN controller.
 
 
-### Download File
+### Download
 
-Download files into ryu directory, for instance, 'ryu/ryu/app/ECMP' is OK.
+Download files into Ryu directory, for instance, 'ryu/ryu/app/ECMP' is OK.
 
 
 ### Start
