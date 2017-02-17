@@ -317,7 +317,7 @@ def createTopo(pod, density, ip="192.168.56.101", port=6653, bw_c2a=10, bw_a2e=1
 if __name__ == '__main__':
 	setLogLevel('info')
 	if os.getuid() != 0:
-		logger.debug("You are NOT root")
+		logging.debug("You are NOT root")
 	elif os.getuid() == 0:
 		# createTopo(4, 2)
 		createTopo(8, 4)
